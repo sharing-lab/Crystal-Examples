@@ -1,0 +1,12 @@
+name: examples
+version: 0.1.0
+
+authors:
+  - Fatih <fatih.bdg@gmail.com>
+
+targets:
+  examples:
+    main: src/examples.cr
+
+crystal: 1.9.2
+
